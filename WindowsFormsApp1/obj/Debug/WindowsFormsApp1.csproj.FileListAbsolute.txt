@@ -1,0 +1,44 @@
+C:\Users\Алексей\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Алексей\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Алексей\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Алексей\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс\3 курс 1 сем\Базы данных\Семинары_КурсовойПроект\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

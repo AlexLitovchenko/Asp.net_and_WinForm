@@ -1,0 +1,42 @@
+﻿@model ООP_Laba4.Storage.Entity.Participant
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>UpdateParticipant</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    @using (Html.BeginForm("Update", "Participant", FormMethod.Post))
+    {
+        <label>Фамилия:</label><br />
+        <input type="text" name="SurName" value="@Model.SurName" required /><br />
+        <label>Имя:</label><br />
+        <input type="text" name="Name" value="@Model.Name" required /><br />
+        <label>Отчество:</label><br />
+        <input type="text" name="LastName" value="@Model.LastName" required /><br />
+        <label>Дата Рождения:</label><br />
+        <input type="date" name="Birthday" value="@Model.Birthday.ToString("yyyy-MM-dd")" required /><br /> <br />
+
+        <input type="hidden" name="id" value="@Model.Id" />
+        <input type="submit" value="обновить" />
+    }
+</body>
+</html>

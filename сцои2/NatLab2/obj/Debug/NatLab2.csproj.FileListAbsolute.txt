@@ -1,0 +1,20 @@
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.csprojAssemblyReference.cache
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.Form1.resources
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.Properties.Resources.resources
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.csproj.GenerateResource.cache
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.csproj.CoreCompileInputs.cache
+D:\Программы\NatLab2\NatLab2\bin\Debug\NatLab2.exe.config
+D:\Программы\NatLab2\NatLab2\bin\Debug\NatLab2.exe
+D:\Программы\NatLab2\NatLab2\bin\Debug\NatLab2.pdb
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.exe
+D:\Программы\NatLab2\NatLab2\obj\Debug\NatLab2.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\bin\Debug\NatLab2.exe.config
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\bin\Debug\NatLab2.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\bin\Debug\NatLab2.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.csprojAssemblyReference.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.Form1.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.Properties.Resources.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.csproj.GenerateResource.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.csproj.CoreCompileInputs.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои2\NatLab2\obj\Debug\NatLab2.pdb

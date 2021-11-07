@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatLab2", "NatLab2\NatLab2.csproj", "{B23A67C6-EE97-4384-ABEB-13BB90EC3643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23A67C6-EE97-4384-ABEB-13BB90EC3643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23A67C6-EE97-4384-ABEB-13BB90EC3643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23A67C6-EE97-4384-ABEB-13BB90EC3643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23A67C6-EE97-4384-ABEB-13BB90EC3643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3707916A-F22D-4245-88AF-D020F4145DA9}
+	EndGlobalSection
+EndGlobal

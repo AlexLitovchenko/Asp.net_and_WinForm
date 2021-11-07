@@ -1,0 +1,38 @@
+﻿@model ООP_Laba4.Storage.Entity.Event
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateEvent</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    @using (Html.BeginForm("Update", "Event", FormMethod.Post))
+    {
+        <label>Дата:</label><br />
+        <input type="date" name="Date" value="@Model.Date.ToString("yyyy-MM-dd")" required /> <br />
+        <label>название:</label><br />
+        <input type="text" name="Name" value="@Model.Name" required /> <br />
+
+        <input type="hidden" name="id" value="@Model.Id" />
+        <input class="create" type="submit" value="обновить" />
+    }
+</body>
+</html>

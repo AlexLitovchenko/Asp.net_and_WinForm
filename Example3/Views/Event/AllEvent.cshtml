@@ -1,0 +1,53 @@
+﻿@model List<ООP_Laba4.Storage.Entity.Event>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>AllEvent</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    <h1>Все события</h1>
+    <table>
+        <tr>
+            <th>№</th>
+            <th>Дата</th>
+            <th>название</th>
+            <th>открыть</th>
+            <th>изменить</th>
+            <th>удалить</th>
+        </tr>
+        @{
+            int number = 1;
+            foreach (var a in Model)
+            {
+                <tr>
+                    <td>@number.ToString()</td>
+                    <td>@a.Date.ToShortDateString()</td>
+                    <td>@a.Name</td>
+                    <td>@Html.ActionLink("открыть", "Event", "Event", new { id = a.Id })</td>
+                    <td>@Html.ActionLink("изменить", "UpdateEvent", "Event", new { id = a.Id })</td>
+                    <td>@Html.ActionLink("удалить", "Delete", "Event", new { id = a.Id })</td>
+                </tr>
+                number++;
+            }
+        }
+    </table>
+</body>
+</html>

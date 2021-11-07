@@ -1,0 +1,19 @@
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Aleksandr\Downloads\NatLab5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Муська\OneDrive\Рабочий стол\3 курс 2 сем\сцои5\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

@@ -1,0 +1,63 @@
+﻿body {
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+table {
+    table-layout: auto;
+    border: 4px double black; /* Рамка вокруг таблицы */
+    border-collapse: collapse; /* Отображать только одинарные линии */
+    margin: 20px auto 0 auto;
+    text-align: center;
+}
+
+th {
+    text-align: center; /* Выравнивание по левому краю */
+    background: #ff00dc; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг содержимого ячеек */
+    border: 1px solid black; /* Граница вокруг ячеек */
+}
+
+td {
+    padding: 5px; /* Поля вокруг содержимого ячеек */
+    border: 1px solid black; /* Граница вокруг ячеек */
+}
+
+a {
+    color: black;
+}
+
+    a:hover {
+        color: black;
+        border-bottom: solid;
+        border-bottom-color: black;
+        border-bottom-width: 1.5px;
+        /*время ожидание перед запуском эффекта*/
+        transition-delay: 0.1s;
+        /*на сколько быстро должно изменяться значение стилевого свойства*/
+        transition-timing-function: linear;
+    }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    border: 1px solid black;
+}
+
+form {
+    width: 200px;
+    margin: 0 auto;
+}

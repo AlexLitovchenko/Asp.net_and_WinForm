@@ -1,0 +1,71 @@
+﻿@model ООP_Laba4.Storage.Entity.Event
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>AllSport</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    <h1>Таблица событий</h1>
+    <table>
+        <tr>
+            <th>Дата</th>
+            <th>Название</th>
+            <th>изменить</th>
+            <th>Список спортивных мероприятий</th>
+            <th>Добавить спротивное мероприятие</th>
+
+        </tr>
+        <tr>
+            <td>@Model.Date.ToShortDateString()</td>
+            <td>@Model.Name</td>
+            <td>@Html.ActionLink("изменить", "UpdateEvent", "Event", new { id = Model.Id })</td>
+            <td>@Html.ActionLink("показать", "AllSport", "Event", new { id = Model.Id })</td>
+            <td>@Html.ActionLink("добавить", "CreateSport", "Sport", new { EventId = Model.Id })</td>
+
+        </tr>
+    </table>
+    <h2>Список соревнований</h2>
+    <table>
+        <tr>
+            <th>№</th>
+            <th>Вид</th>
+            <th>изменить</th>
+            <th>удалить</th>
+            <th>добавить участника</th>
+        </tr>
+        @{
+            int number = 1;
+            foreach (var a in Model.Sports)
+            {
+                <tr>
+                    <td>@number.ToString()</td>
+                    <td>@a.Kind</td>
+                    <td>@Html.ActionLink("изменить", "UpdateSport", "Sport", new { id = a.Id })</td>
+                    <td>@Html.ActionLink("удалить", "Delete", "Sport", new { id = a.Id, EventId = Model.Id })</td>
+                    <td>@Html.ActionLink("добавить", "CreateParticipant", "Participant", new { SportId = a.Id})</td>
+                </tr>
+                number++;
+            }
+        }
+    </table>
+</body>
+</html>

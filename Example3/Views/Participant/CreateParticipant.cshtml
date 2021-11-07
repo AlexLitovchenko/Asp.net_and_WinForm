@@ -1,0 +1,42 @@
+﻿@model System.Guid
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateParticipant</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    @using (Html.BeginForm("Create", "Participant", FormMethod.Post))
+    {
+        <label>Фамилия:</label><br />
+        <input type="text" name="SurName" required /><br />
+        <label>Имя:</label><br />
+        <input type="text" name="Name" required /><br />
+        <label>Отчество:</label><br />
+        <input type="text" name="LastName" required /><br />
+        <label>Дата Рождения:</label><br />
+        <input type="date" name="Birthday" required /><br /> <br />
+
+        <input type="hidden" name="SportId" value="@Model" />
+        <input type="submit" value="создать" />
+    }
+</body>
+</html>

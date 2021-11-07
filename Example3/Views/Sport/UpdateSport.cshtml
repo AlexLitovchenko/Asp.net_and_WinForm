@@ -1,0 +1,36 @@
+﻿@model ООP_Laba4.Storage.Entity.Sport
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/css/Style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>UpdateSport</title>
+</head>
+<body>
+    <h2>Меню</h2>
+    <table>
+        <tr>
+            <th>События</th>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("добавить", "CreateEvent", "Event")</td>
+        </tr>
+        <tr>
+            <td>@Html.ActionLink("список событий", "AllEvent", "Event")</td>
+        </tr>
+    </table>
+    @using (Html.BeginForm("Update", "Sport", FormMethod.Post))
+    {
+        <label>Вид:</label><br />
+        <input type="text" name="Kind" value="@Model.Kind" required /><br />
+
+        <input type="hidden" name="id" value="@Model.Id" />
+        <input type="submit" value="обновить" />
+    }
+</body>
+</html>
