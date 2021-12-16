@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{05622B79-C251-411A-9ECE-6FF467A456C0}|ООP_Laba4">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ParticipantController.cs">
+    <Files>
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Storage/Entity/Event.cs" Line="1" Column="1" />
+      <File FileName="Storage/Migrations/20200602220233_InitialCreare.cs" Line="1" Column="1" />
+      <File FileName="Storage/Migrations/SportEventsDataContext.cs" Line="1" Column="1" />
+      <File FileName="Storage/Migrations/SportEventsDataContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Storage/Migrations/20200602220233_InitialCreare.Designer.cs" Line="1" Column="1" />
+      <File FileName="Storage/Entity/Sport.cs" Line="1" Column="1" />
+      <File FileName="Storage/Entity/Participant.cs" Line="1" Column="1" />
+      <File FileName="Managers/Sports/SportManager.cs" Line="25" Column="35" />
+      <File FileName="Managers/Sports/ISportManager.cs" Line="1" Column="1" />
+      <File FileName="Managers/Sports/CreateOrUpdateSportRequest.cs" Line="1" Column="1" />
+      <File FileName="Controllers/SportController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ParticipantController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/EventController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Example" expanded="True">
+            <Node name="Example" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ParticipantController.cs" selected="True" />
+              </Node>
+              <Node name="Managers" expanded="True">
+                <Node name="Events" expanded="True" />
+                <Node name="Participants" expanded="True" />
+                <Node name="Sports" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Storage" expanded="True">
+                <Node name="Entity" expanded="True" />
+                <Node name="Migrations" expanded="True">
+                  <Node name="20200602220233_InitialCreare.cs" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Example PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

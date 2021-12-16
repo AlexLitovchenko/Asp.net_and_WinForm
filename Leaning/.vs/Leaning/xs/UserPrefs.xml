@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{FE4FAFD3-CBC3-4196-9996-3AEA364C9F0C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Leaning PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leaning/Data/AppData.cs">
+    <Files>
+      <File FileName="Leaning/Data/Mocks/MockAllCars.cs" Line="21" Column="119" />
+      <File FileName="Leaning/Data/Mocks/MockCategory.cs" />
+      <File FileName="Leaning/Data/Interface/IAllCars.cs" />
+      <File FileName="Leaning/Data/Interface/ICarCategory.cs" />
+      <File FileName="Leaning/Data/Models/Cars.cs" />
+      <File FileName="Leaning/Views/Car/List.cshtml" />
+      <File FileName="Leaning/Views/Shared/_Layout.cshtml" />
+      <File FileName="Leaning/Data/AppData.cs" Line="11" Column="10" />
+      <File FileName="Leaning/Data/Models/Category.cs" />
+      <File FileName="Leaning/Dbsetting.json" />
+      <File FileName="Leaning/appsettings.Development.json" Line="8" Column="4" />
+      <File FileName="Leaning/Startup.cs" Line="14" Column="20" />
+      <File FileName="Leaning/appsettings.json" Line="11" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leaning" expanded="True">
+            <Node name="Leaning" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AppData.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Car" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost; Database=Leaning; Trusted_Connetion=true "
+  }
